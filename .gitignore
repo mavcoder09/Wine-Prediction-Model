@@ -1,1 +1,4 @@
 data/wine_sample.csv
+.venv
+.DS_Store
+
